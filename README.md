@@ -27,8 +27,8 @@ Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sun
 
 ## Program:
 
-## Name: DHARSHAN D
-## Reg.No: 212223230045
+## Name: MOONESH P
+## Reg.No: 212223230126
 
 ```python
 import cv2
